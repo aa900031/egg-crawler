@@ -38,8 +38,10 @@
   },
   "files": [
     "app.js",
-    "agent.js",
-    "config"
+    "config",
+    "lib",
+    "index.js",
+    "index.d.ts"
   ],
   "ci": {
     "version": "8, 9"
