@@ -1,5 +1,3 @@
 'use strict';
 
-module.exports = {
-  Crawler: require('./lib/class'),
-};
+exports.Crawler = require('./lib/class');
