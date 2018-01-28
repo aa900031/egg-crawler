@@ -1,6 +1,6 @@
 {
   "name": "egg-crawler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "eggPlugin": {
     "name": "crawler"
