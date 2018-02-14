@@ -11,6 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
+    "is-type-of": "^1.2.0",
     "scrape-it": "^4.1.2"
   },
   "devDependencies": {
